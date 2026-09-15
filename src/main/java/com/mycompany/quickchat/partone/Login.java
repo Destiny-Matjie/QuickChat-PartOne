@@ -1,5 +1,5 @@
 package com.mycompany.quickchat.partone;
-
+//ST10483913 - Commit 4: Added documentation for POE Part 1
 public class Login {
     private String firstName, lastName, username, password, cellNumber;
     public Login(String fn, String ln){ firstName=fn; lastName=ln; }
