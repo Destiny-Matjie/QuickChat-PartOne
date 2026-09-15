@@ -1,4 +1,5 @@
 package com.mycompany.quickchat.partone;
+// Main.java handles flow - Scanner for console input
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
