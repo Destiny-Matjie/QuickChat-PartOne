@@ -1,4 +1,4 @@
-# QuickChat - Part One
+# QuickChat - Part One/POE
 
 QuickChat is a Java messaging app that allows users to login, send messages, store messages, and view stored messages.
 
